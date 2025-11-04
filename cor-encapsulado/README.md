@@ -1,6 +1,6 @@
 # Cadeia de Responsabilidade - Encapsulado (Java)
 
-Projeto: com.atividade_escobar.cor
+Autor: Andrey Kusman Gonçalves
 Estrutura pronta para Maven.
 
 Como rodar testes:
